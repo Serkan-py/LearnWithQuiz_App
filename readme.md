@@ -3,6 +3,7 @@ Fakat isterseniz sınava çalışmak için değil de normal kelime çalışması
 
 Uygulamanın kurulumu:
 1- İlk olarak dosyaları cihazınıza indirmelisiniz.
+
 2- Sonrasında indirilen dosyalarda bulunan dist dosyasına giriş yapın.
 3- Dist dosyasının içinde bulunan kelime-quiz.exe dosyasına çift tıklayarak çalıştırın.
 4- Uygulama karşınıza çıkacaktır. Uygulamada Yazılı Quiz, Çoktan Seçmeli Quiz, Hata Yapılan Kelimeleri Çalış ve Yeni Kelime Ekleme işlemleri vardır.
