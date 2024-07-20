@@ -1,0 +1,76 @@
+{
+    "words": [
+        {
+            "english": "experiment",
+            "turkish": [
+                "deney"
+            ],
+            "sentences": [
+                {
+                    "english": "The scientists conducted an experiment.",
+                    "turkish": "Bilim insanları bir deney yaptı."
+                }
+            ]
+        },
+        {
+            "english": "hypothesis",
+            "turkish": [
+                "hipotez"
+            ],
+            "sentences": [
+                {
+                    "english": "The scientist formulated a new hypothesis.",
+                    "turkish": "Bilim insanı yeni bir hipotez oluşturdu."
+                }
+            ]
+        },
+        {
+            "english": "analysis",
+            "turkish": [
+                "analiz"
+            ],
+            "sentences": [
+                {
+                    "english": "The analysis of the data was thorough.",
+                    "turkish": "Verinin analizi titizdi."
+                }
+            ]
+        },
+        {
+            "english": "data",
+            "turkish": [
+                "veri"
+            ],
+            "sentences": [
+                {
+                    "english": "The data was collected over several years.",
+                    "turkish": "Veri birkaç yıl boyunca toplandı."
+                }
+            ]
+        },
+        {
+            "english": "research",
+            "turkish": [
+                "araştırma"
+            ],
+            "sentences": [
+                {
+                    "english": "The research focused on climate change.",
+                    "turkish": "Araştırma iklim değişikliğine odaklandı."
+                }
+            ]
+        },
+        {
+            "english": "theory",
+            "turkish": [
+                "teori"
+            ],
+            "sentences": [
+                {
+                    "english": "The theory was widely accepted.",
+                    "turkish": "Teori geniş çapta kabul gördü."
+                }
+            ]
+        }
+    ]
+}
