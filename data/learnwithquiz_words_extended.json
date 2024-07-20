@@ -71,6 +71,18 @@
                     "turkish": "Teori geniş çapta kabul gördü."
                 }
             ]
+        },
+        {
+            "english": "method",
+            "turkish": [
+                "yöntem"
+            ],
+            "sentences": [
+                {
+                    "english": "The method used was very effective.",
+                    "turkish": "Kullanılan yöntem çok etkiliydi."
+                }
+            ]
         }
     ]
 }
