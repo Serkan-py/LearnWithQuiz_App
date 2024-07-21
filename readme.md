@@ -1,4 +1,5 @@
 Learn With Quiz, dil öğrenme sürecinizi eğlenceli ve etkili hale getiren interaktif bir masaüstü uygulamasıdır. Kelime dağarcığınızı genişletmenize, bilgilerinizi test etmenize ve öğrenme sürecinizi takip etmenize yardımcı olur.
+
 İçindekiler
 
 Kurulum
