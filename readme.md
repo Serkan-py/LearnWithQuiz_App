@@ -1,25 +1,78 @@
-Bu uygulama YOKDİL sınavlarına çalışmak için yapılmıştır.
-Fakat isterseniz sınava çalışmak için değil de normal kelime çalışması yapmak için de kullanabilirsiniz.
+Learn With Quiz, dil öğrenme sürecinizi eğlenceli ve etkili hale getiren interaktif bir masaüstü uygulamasıdır. Kelime dağarcığınızı genişletmenize, bilgilerinizi test etmenize ve öğrenme sürecinizi takip etmenize yardımcı olur.
+İçindekiler
 
-Uygulamanın kurulumu:
+Kurulum
+Başlangıç
+Özellikler
+Nasıl Kullanılır
+SSS
+İletişim & Destek
 
-1- İlk olarak dosyaları cihazınıza indirmelisiniz.
+Kurulum
 
-2- Sonrasında indirilen dosyalarda bulunan dist dosyasına giriş yapın.
+Learn With Quiz'in en son sürümünü indirin.
+İndirilen zip dosyasını çıkarın.
+dist klasörünün içinde bulunan LearnWithQuiz.exe dosyasını çalıştırın.
 
-3- Dist dosyasının içinde bulunan kelime-quiz.exe dosyasına çift tıklayarak çalıştırın.
+Masaüstü Kısayolu Oluşturma:
 
-4- Uygulama karşınıza çıkacaktır. Uygulamada Yazılı Quiz, Çoktan Seçmeli Quiz, Hata Yapılan Kelimeleri Çalış ve Yeni Kelime Ekleme işlemleri vardır.
+LearnWithQuiz.exe dosyasına sağ tıklayın.
+"Kısayol oluştur" seçeneğini seçin.
+Oluşturulan kısayolu masaüstüne sürükleyin.
 
-5- Eğer kelime eklemek isterseniz ana ekranda Yeni Kelime Ekle butonuna tıklayın ve eklemek istediğiniz kelimenin önce ingilizce ve sonra türkçe anlamını girin.
+Başlangıç
 
-6- Kelimelerin anlamlarını yazarak cevaplamak isterseniz Yazılı Quiz butonuna tıklayın ve kelimelerin türkçelerini cevaplayın. Kabul ettirmek için isterseniz cevapla butonuna basın isterseniz enter a basın.
+Masaüstündeki Learn With Quiz kısayoluna çift tıklayın veya LearnWithQuiz.exe dosyasını çalıştırın.
+Ana menüden istediğiniz çalışma modunu seçin.
+Öğrenmeye başlayın!
 
-7- Kelimelerin anlamlarını şıkları işaretleyerek cevaplamak isterseniz Çoktan Seçmeli Quiz butonuna tıklayın ve karşınıza gelen şıklarda doğru şıkkı işaretleyerek soruları cevaplayın.
+Özellikler
 
-8- Yanlış yaptığınız kelimeler kaydedilecektir. Bu yanlış yapılan kelimeleri Hata Yapılan Kelimeleri Çalış butonuna tıklayarak çalışabilirsiniz. Bu kelimeleri en az 2 kere doğru yaparsanız o kelimeler hata yapılan kelimeler kısmından çıkarılacaktır.
+Kelime Çalışması: Kelimeleri ve anlamlarını interaktif bir şekilde öğrenin.
+Yazılı Quiz: Bilgilerinizi yazılı olarak test edin.
+Çoktan Seçmeli Quiz: Hızlı ve eğlenceli bir şekilde kelime bilginizi ölçün.
+Hata Yapılan Kelimeleri Çalışma: Zorlandığınız kelimelere odaklanın. Bu kelimeleri 2 kere doğru yapmazsanız buradan çıkmayacaktır.
+Kelime Ekleme: Kendi kelime listenizi oluşturun ve genişletin.
+Kişiselleştirilebilir Ayarlar: Uygulama temasını ve font boyutunu tercihinize göre ayarlayın.
 
-Umarım bir faydası olur iyi çalışmalar.
+Nasıl Kullanılır
+Kelime Çalışması
 
-Hazırlayan
-Serkan BÜTÜN
+Ana menüden "Kelime Çalışması"nı seçin.
+Kelimeleri ve anlamlarını inceleyin.
+İleri ve geri butonlarıyla kelimeler arasında gezinin.
+
+Quiz Modları
+
+"Yazılı Quiz" veya "Çoktan Seçmeli Quiz"i seçin.
+Gösterilen kelimenin anlamını yazın veya doğru seçeneği işaretleyin.
+Anında geri bildirim alın ve ilerleyişinizi takip edin.
+
+Yeni Kelime Ekleme
+
+Ana menüden "Yeni Kelime Ekle"yi seçin.
+İngilizce kelimeyi ve Türkçe anlamını girin.
+İsterseniz örnek cümle ekleyin.
+Örnek cümle ekleyerek kelime çalışması için ekleme yaparsınız.
+
+Ayarlar
+
+Ana menüden "Ayarlar"ı seçin.
+Koyu/açık mod, tema rengi ve yazı boyutunu ayarlayın.
+Ses seviyesini tercihinize göre düzenleyin.
+
+SSS
+S: Kelimelerimi nasıl yedekleyebilirim?
+C: Kelimeleriniz otomatik olarak %UserProfile%\Documents\LearnWithQuiz klasöründe saklanır. Bu klasörü yedekleyerek kelimelerinizi koruyabilirsiniz.
+S: Uygulamayı güncelleyebilir miyim?
+C: Yeni sürümler çıktığında, github sitemizden en son sürümü indirip kurabilirsiniz.
+
+İletişim & Destek
+Sorularınız veya geri bildirimleriniz için:
+
+Elektrik Elektronik Mühendisi Serkan BÜTÜN
+E-posta: muhsrknbtn@gmail.com
+Linkedin: https://www.linkedin.com/in/serkan-butun/
+GitHub: https://github.com/Serkan-py/LearnWithQuiz_App
+
+
