@@ -9,6 +9,12 @@ Nasıl Kullanılır
 SSS
 İletişim & Destek
 
+Nasıl İndiririm?
+
+Add File butonunun yanındaki Code butonuna tıklayalım.
+Ardından önümüze gelen seçeneklerden Download ZIP'e tıklayalım.
+Dosyalar bilgisayarımıza inecektir. İndirilenler klasöründe bulabiliriz.
+
 Kurulum
 
 Learn With Quiz'in en son sürümünü indirin.
